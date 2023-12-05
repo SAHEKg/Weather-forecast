@@ -1,0 +1,13 @@
+{
+  "cities": [
+    "Luga",
+    "Moscow",
+    "Saint Petersburg",
+    "London",
+    "New York",
+    "Dubai",
+    "Los Angeles"
+  ],
+  "forecast_days": 3,
+  "frequency_seconds": 15
+}
